@@ -1,0 +1,60 @@
+.Grid{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	column-gap: 40px;
+	row-gap: 500px;
+}
+
+.left,
+.Center,
+.right{
+	text-align: center;
+	vertical-align: center;
+	width: 1300px;
+	height: 1300px;
+			}
+.Poems1{
+	width: 1200px;
+	height: 1200px;
+	border-radius: 50px;
+}
+
+.Poems1:hover {
+		Opacity: 0.95;
+		width: 1250px;
+		height: 1250px;
+}
+
+.Poems2{
+	width: 1200px;
+	height: 1200px;
+	border-radius: 50px;
+}
+.Poems2:hover {
+		Opacity: 0.95;
+		width: 1250px;
+		height: 1250px;
+}
+.Poems3{
+	width: 1200px;
+	height: 1200px;
+	border-radius: 50px;
+}
+.Poems3:hover {
+		Opacity: 0.95;
+		width: 1250px;
+		height: 1250px;
+}
+
+.author{
+	font-size: 80px;
+}
+
+.topbar{
+	margin-bottom: 600px;
+}
+
+.description{
+	font-size: 100px;
+	font-family: Monotype Corsiva
+}

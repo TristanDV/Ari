@@ -1,0 +1,67 @@
+.Poem-1big{
+	Width: 50%;
+	height: 700px;
+}
+.Poem-2big{
+	Width: 50%;
+	height: 900px;
+}
+.Poem-3big{
+	Width: 50%;
+	height: 700px;
+}
+.Poem-4big{
+	Width: 50%;
+	height: 700px;
+}
+.Poem-5big{
+	Width: 50%;
+	height: 700px;
+}
+.Poem-6big{
+	Width: 50%;
+	height: 700px;
+}
+.Poem-7big{
+	Width: 50%;
+	height: 700px;
+}
+.Poem-8big{
+	Width: 50%;
+	height: 700px;
+}
+.Poem-9big{
+	Width: 50%;
+	height: 700px;
+}
+.Buttons{
+	display: inline;
+}
+.Next-page{
+	Width:100px;
+	height: 30px;
+	opacity: 0.8;
+	background-color: lightblue;
+	border-radius: 10px;
+	border-width: 1.5px;
+	text-align: Center;
+	margin-left: 5px;
+	margin-right:5px;
+	font-family: Monotype Corsiva;
+	font-size: 20px;
+}
+.Next-page:hover{
+	Width:105px;
+	height: 32px;
+	opacity: 1;
+	background-color: lightblue;
+	border-radius: 10px;
+	border-width: 1.5px;
+	text-align: Center;
+}
+.Grid{
+text-align: center;
+height: 105px;
+margin-top: 30px;
+
+}
